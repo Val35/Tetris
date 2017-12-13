@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1512557472 source:g:\tetris_v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+
+1512668256 source:n:\iut\tetris_v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+	<mmsystem.h>
+
+1513177074 source:c:\users\valentin\desktop\tetris_v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+	<mmsystem.h>
+
